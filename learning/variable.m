@@ -20,4 +20,12 @@ x = 3	       % defining x and initializing it with a value
 %{
 Combining Variables (Strings)
 ---The additional operator "+" can be used to add variables in MATLAB
+
+The whos command displays little more about the variables −
+
+Variables currently stored on the memory
+Type of each variables
+Memory allocated to each variable
+Whether they are complex variables or not
 %}
+
